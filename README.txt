@@ -1,6 +1,10 @@
  change 1 
  change 2
- 
+ change 3
+ change 4
+ change 5
+ change 6
+
  This tar file contains all the files necessary to compile
  and run the Mercury N-body integrator package, version 6.2. 
  The following files should be present:
